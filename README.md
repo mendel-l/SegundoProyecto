@@ -51,6 +51,8 @@ SegundoProyecto/
 - cd front
 - npx create-react-app .
 
+## GENERAMOS BASE DE DATOS
+- la base de datos se llama "hola" // por el momento no tiene ninguna tabla
 
 ## Iniciar el Proyecto
 1. back-end
